@@ -1,16 +1,14 @@
-### Hi there 👋
+### 👋 Hi, I'm Charles Frenzel
 
-<!--
-**momonga-ml/momonga-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=momonga-ml)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+I build and productionize machine learning at scale. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 Check out my [Writing](https://charles-frenzel.medium.com/) 
+- ⚡  See [More Code](https://github.com/smart-patrol) at my alternate GH
+- 🌱 I'm learning: Rust and [flax](https://github.com/google/flax)
+- 🔭 I’m currently working on [DenseClus](https://github.com/awslabs/amazon-denseclus)
+- 😅 Fun fact: I don't use the QWERTY keyboard (I use [Colemak DH](https://colemakmods.github.io/mod-dh/keyboards.html) instead).
+
+
+
