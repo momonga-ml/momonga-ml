@@ -1,14 +1,14 @@
 ### 👋 Hi, I'm Charles Frenzel
 
 <h1 align="center">Hi 👋, I'm Charles Frenzel</h1>
-<h3 align="center">I build and productionize machine learning at scale.</h3>
+<h3 align="center">I build and productionize AI and ML at scale.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=momonga-ml&label=Profile%20views&color=3fd4ca&style=flat-square" alt="momonga-ml" /> </p>
 
 
 - 📝 Check out my [Writing](https://charles-frenzel.medium.com/) 
 - ⚡  See [More Code](https://github.com/smart-patrol) at my alternate (older) GH
-- 🌱 I'm learning: Rust and [flax](https://github.com/google/flax)
-- 🔭 I’m currently working on Reinforcement Learning and [DenseClus](https://github.com/awslabs/amazon-denseclus)
+- 🌱 I'm learning: [Neuron X](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/general/setup/torch-neuronx.html#setup-torch-neuronx)
+- 🔭 I’m currently working on Large Langauge Models and ❤️ [DenseClus](https://github.com/awslabs/amazon-denseclus)
 - 😅 Fun fact: I don't use the QWERTY keyboard (I use [Colemak DH](https://colemakmods.github.io/mod-dh/keyboards.html) instead).
 
 <h3 align="left">Connect with me:</h3>
