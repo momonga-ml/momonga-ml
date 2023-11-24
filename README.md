@@ -18,7 +18,6 @@ with over a decade of expeirence in the industry. </h3>
 <a href="https://medium.com/charles-frenzel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@liuhh02" height="30" width="40" /></a>
 </p>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=momonga-ml&label=Profile%20views&color=3fd4ca&style=flat-square" alt="momonga-ml" /> </p>
 
 
