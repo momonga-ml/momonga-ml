@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Charles Frenzel
 
 <h1 align="center">Hi 👋, I'm Charles Frenzel</h1>
-<h3 align="center">I design, build and productionize AI/ML systems that run at scale. Currently, I am Principal Machiner Learning Engineer at Amazon Web Servcies 
+<h3 align="center">I design, build and productionize AI/ML systems that run at scale. Currently, I am Principal Machine Learning Engineer at Amazon Web Services 
 with over a decade of expeirence in the industry. </h3>
 
 
