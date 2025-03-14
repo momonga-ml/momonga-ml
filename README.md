@@ -18,8 +18,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=momonga-ml&label=Profile%20views&color=3fd4ca&style=flat-square" alt="momonga-ml" /> </p>
 
-
-<p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=momonga-ml&show_icons=true&locale=en&langs_count=7&layout=compact&theme=vue&hide=html,scss,css" alt="momonga-ml" /></p></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=momonga-ml&show_icons=true&locale=en&theme=vue&hide=prs,issues" alt="momonga-ml" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=momonga-ml&theme=blueberry_duo" alt="momonga-ml" /></p>
