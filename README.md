@@ -9,6 +9,7 @@
 - 🔭 I’m currently working on Large Langauge Models LLMs and Generative AI
 - ❤️ I created [DenseClus](https://github.com/awslabs/amazon-denseclus)
 - 🎥 I got on [YouTube](https://www.youtube.com/watch?v=lT8b6g8veqQ)
+- ✨ Vibing on [ResumeRewriter](https://github.com/momonga-ml/llm_resume_rewriter) and **JobDescriptionMatcher** (coming soon)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
